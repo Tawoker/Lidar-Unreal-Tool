@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\lidarpointcloudsimulation\\module.lidarpointcloudsimulation.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue projects\\robotracecopy\\intermediate\\build\\win64\\x64\\robotrace\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\lidarpointcloudsimulation\\definitions.lidarpointcloudsimulation.h",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\intermediate\\build\\win64\\unrealgame\\inc\\lidarpointcloudsimulation\\uht\\lidaractor.gen.cpp",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\source\\lidarpointcloudsimulation\\public\\lidaractor.h",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\intermediate\\build\\win64\\unrealgame\\inc\\lidarpointcloudsimulation\\uht\\lidaractor.generated.h",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\intermediate\\build\\win64\\unrealgame\\inc\\lidarpointcloudsimulation\\uht\\lidarpointcloudsimulation.init.gen.cpp",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\source\\lidarpointcloudsimulation\\private\\lidaractor.cpp",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "e:\\epicgames\\epicgames\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\source\\lidarpointcloudsimulation\\private\\lidarpointcloudsimulation.cpp",
+            "e:\\ue projects\\robotracecopy\\plugins\\lidarpointcloudsimulation\\source\\lidarpointcloudsimulation\\public\\lidarpointcloudsimulation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

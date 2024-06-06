@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LidarPointCloudSimulation.cpp.obj": [
+			"LidarActor.gen.cpp.obj",
+			"LidarPointCloudSimulation.init.gen.cpp.obj",
+			"LidarActor.cpp.obj",
+			"LidarPointCloudSimulation.cpp.obj"
+		]
+	}
+}

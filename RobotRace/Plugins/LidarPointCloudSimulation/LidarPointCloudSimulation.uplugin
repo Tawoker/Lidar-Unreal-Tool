@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LidarPointCloudSimulation",
+	"Description": "cpu lidar point cloud simulation",
+	"Category": "Other",
+	"CreatedBy": "peifeng.ye",
+	"CreatedByURL": "",
+	"DocsURL": "https://drive.google.com/file/d/1_2iUbaJshq3lqW6DJqqx2cm34lDEwNOS/view?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5410f3189a0744a78de3a7cf4d951379",
+	"SupportURL": "",
+	"EngineVersion": "5.3.2",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LidarPointCloudSimulation",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
